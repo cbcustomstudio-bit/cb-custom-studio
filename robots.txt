@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cbcustomstudio-bit.github.io/cb-custom-studio/sitemap.xml
